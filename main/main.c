@@ -36,8 +36,8 @@
  * Minimum value: -64.0, maximum value: 63.5.
  * A value of 0xFF represents 'value is not known'.
  */
-static int8_t indoor_temp = 40;  /* Indoor temperature is 20 Degrees Celsius */
-static int8_t outdoor_temp = 60; /* Outdoor temperature is 30 Degrees Celsius */
+static int8_t indoor_temp = 20;  /* Indoor temperature is 20 Degrees Celsius */
+static int8_t outdoor_temp = 30; /* Outdoor temperature is 30 Degrees Celsius */
 
 #define SENSOR_POSITIVE_TOLERANCE ESP_BLE_MESH_SENSOR_UNSPECIFIED_POS_TOLERANCE
 #define SENSOR_NEGATIVE_TOLERANCE ESP_BLE_MESH_SENSOR_UNSPECIFIED_NEG_TOLERANCE
