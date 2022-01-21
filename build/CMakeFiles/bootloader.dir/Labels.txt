@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/Users/caetanowagner/esp/workspace/git_test/build/CMakeFiles/bootloader
+/Users/caetanowagner/esp/workspace/git_test/build/CMakeFiles/bootloader.rule
+/Users/caetanowagner/esp/workspace/git_test/build/CMakeFiles/bootloader-complete.rule
+/Users/caetanowagner/esp/workspace/git_test/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/Users/caetanowagner/esp/workspace/git_test/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/Users/caetanowagner/esp/workspace/git_test/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/Users/caetanowagner/esp/workspace/git_test/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
+/Users/caetanowagner/esp/workspace/git_test/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/Users/caetanowagner/esp/workspace/git_test/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/Users/caetanowagner/esp/workspace/git_test/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule

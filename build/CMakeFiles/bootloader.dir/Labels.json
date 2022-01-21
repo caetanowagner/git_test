@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/caetanowagner/esp/workspace/git_test/build/CMakeFiles/bootloader"
+		},
+		{
+			"file" : "/Users/caetanowagner/esp/workspace/git_test/build/CMakeFiles/bootloader.rule"
+		},
+		{
+			"file" : "/Users/caetanowagner/esp/workspace/git_test/build/CMakeFiles/bootloader-complete.rule"
+		},
+		{
+			"file" : "/Users/caetanowagner/esp/workspace/git_test/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule"
+		},
+		{
+			"file" : "/Users/caetanowagner/esp/workspace/git_test/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule"
+		},
+		{
+			"file" : "/Users/caetanowagner/esp/workspace/git_test/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule"
+		},
+		{
+			"file" : "/Users/caetanowagner/esp/workspace/git_test/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule"
+		},
+		{
+			"file" : "/Users/caetanowagner/esp/workspace/git_test/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule"
+		},
+		{
+			"file" : "/Users/caetanowagner/esp/workspace/git_test/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule"
+		},
+		{
+			"file" : "/Users/caetanowagner/esp/workspace/git_test/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"bootloader"
+		],
+		"name" : "bootloader"
+	}
+}
